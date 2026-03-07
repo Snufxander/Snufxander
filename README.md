@@ -29,6 +29,7 @@ I work on multiple projects at once.
 ---
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YISoulSlayer&bg_color=000000&color=FF0000&line=0000FF&point=FFFF00&area=true&hide_border=true&area_color=FF0000)
+
 ---
 
 <picture>
