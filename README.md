@@ -2,7 +2,7 @@
 
 # Snufkin
 
-![snufkin-header](https://i.pinimg.com/originals/9d/6f/8f/9d6f8f0f921d2d100121ad8f8d0dd52b.jpg)
+![snufkin-header](https://media1.tenor.com/m/NZjpYW8BLbUAAAAC/snusmumriken-snufkin.gif)
 
 I work on multiple projects at once.
 
