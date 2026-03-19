@@ -1,12 +1,10 @@
 <div align="center">
 
-# Snufkin
+# Tails4Ever
 
-![snufkin-header](https://media1.tenor.com/m/NZjpYW8BLbUAAAAC/snusmumriken-snufkin.gif)
+![snufkin-header](https://media1.tenor.com/m/XidRQqkBcCMAAAAd/tails-nine-tails-nine-sonic-prime.gif)
 
 I work on multiple projects at once.
-
-I don't do toxic.
 
 ---
 
@@ -48,15 +46,15 @@ I don't do toxic.
 
 ---
 ```
-"You can't ever be really free if you admire somebody too much, I know."
-— Snufkin
+"The best way to predict the future is to build it yourself."
+— Nine
 ```
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wl2m3aqxcky555yhqi7epzau7u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=3d8b37)](https://github.com/kittinan/spotify-github-profile) ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Snufxander&header_style=normal_stats&footer_style=wave&maxage=60&loved=true)
 
 ---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snufxander&bg_color=1a2a1a&color=8fbf8f&line=3d8b37&point=c8a951&area=true&hide_border=true&area_color=3d8b37)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snufxander&bg_color=0d0a1e&color=e8721a&line=7b2fde&point=00c8d7&area=true&hide_border=true&area_color=3d1565)
 
 ---
 
