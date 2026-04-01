@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tails4Ever
+# ShadowNine
 
 ![tenor](https://github.com/user-attachments/assets/7f73ae7e-f638-4474-822a-86d09232ce1a)
 
